@@ -1,5 +1,7 @@
 # SIMPLE STOCK PRICE
 
+La version de python que estoy usando es python3.10.12, con anaconda.
+
 Esta aplicacion es la primera de 12 apps para data scientist.
 Librerias usadas:
 - streamlite : A minimal framework for powerful apps
