@@ -8,8 +8,9 @@ st.write('''
 Shown are the stock closing price and volume of Google!
 
 ''')
+# Compañía de Minas Buenaventura S.A.A. (BVN)
 # DEFINE THE TICKER SYMBOL
-tickerSymbol = 'GOOGL'
+tickerSymbol = 'GOOG'
 # GET DATA ON THIS TICKER
 tickerData = yf.Ticker(tickerSymbol)
 # GET THE HISTORICAL PRICES FOR THIS TICKER
